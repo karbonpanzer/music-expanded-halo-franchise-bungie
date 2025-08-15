@@ -1,0 +1,36 @@
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>HaloOriginalTheme</defName>
+    <label>Halo Original Soundtrack</label>
+    <description>The iconic soundtrack from the original Halo game.</description>
+    <iconPath>UI/Icons/Halo</iconPath>
+    <tracks>
+      <li>Halo_AWalkInTheWoods</li>
+      <li>Halo_AlienCorridors</li>
+      <li>Halo_AmbientWonder</li>
+      <li>Halo_BrothersInArms</li>
+      <li>Halo_CovenantDance</li>
+      <li>Halo_DevilsMonsters</li>
+      <li>Halo_Drumrun</li>
+      <li>Halo_DustAndEchoes</li>
+      <li>Halo_EnoughDeadHeroes</li>
+      <li>Halo_Halo</li>
+      <li>Halo_LamentForPvtJenkins</li>
+      <li>Halo_LibrarySuite</li>
+      <li>Halo_OnAPaleHorse</li>
+      <li>Halo_OpeningSuite</li>
+      <li>Halo_PerchanceToDream</li>
+      <li>Halo_PerilousJourney</li>
+      <li>Halo_RockAnthemForSavingTheWorld</li>
+      <li>Halo_Shadows</li>
+      <li>Halo_SuiteAutumn</li>
+      <li>Halo_TheGunPointedAtTheHeadOfTheUniverse</li>
+      <li>Halo_TheLongRun</li>
+      <li>Halo_TheMaw</li>
+      <li>Halo_TraceAmounts</li>
+      <li>Halo_TruthAndReconciliationSuite</li>
+      <li>Halo_UnderCoverOfNight</li>
+      <li>Halo_WhatOnceWasLost</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

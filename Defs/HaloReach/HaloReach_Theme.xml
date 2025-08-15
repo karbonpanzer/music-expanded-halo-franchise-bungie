@@ -1,0 +1,30 @@
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>HaloReachOriginalTheme</defName>
+    <label>Halo Reach Original Soundtrack</label>
+    <description>The powerful soundtrack from Halo Reach, known for its tragic and heroic themes.</description>
+    <iconPath>UI/Icons/HaloReach</iconPath>
+    <tracks>
+      <li>HaloReach_Overture</li>
+      <li>HaloReach_WinterContingency</li>
+      <li>HaloReach_ONISwordBase</li>
+      <li>HaloReach_Nightfall</li>
+      <li>HaloReach_TipOfTheSpear</li>
+      <li>HaloReach_LongNightOfSolace</li>
+      <li>HaloReach_Exodus</li>
+      <li>HaloReach_NewAlexandria</li>
+      <li>HaloReach_ThePackage</li>
+      <li>HaloReach_ThePillarOfAutumn</li>
+      <li>HaloReach_Epilogue</li>
+      <li>HaloReach_FromTheVault</li>
+      <li>HaloReach_Ashes</li>
+      <li>HaloReach_Fortress</li>
+      <li>HaloReach_WereNotGoingAnywhere</li>
+      <li>HaloReach_AtAnyCost</li>
+      <li>HaloReach_BothWaysRemix</li>
+      <li>HaloReach_WalkingAway</li>
+      <li>HaloReach_GhostsAndGlass</li>
+      <li>HaloReach_WeRemember</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

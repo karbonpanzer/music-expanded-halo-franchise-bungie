@@ -1,0 +1,162 @@
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Unforgotten</defName>
+    <label>Halo 3 - Never Forget</label>
+    <clipPath>MusicExpanded/Halo3/Never Forget</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_FinishTheFight</defName>
+    <label>Halo 3 - Finish the Fight</label>
+    <clipPath>MusicExpanded/Halo3/Finish the Fight</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_OneFinalEffort</defName>
+    <label>Halo 3 - One Final Effort</label>
+    <clipPath>MusicExpanded/Halo3/One Final Effort</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_HaloReborn</defName>
+    <label>Halo 3 - Halo Reborn</label>
+    <clipPath>MusicExpanded/Halo3/Halo Reborn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Brutes</defName>
+    <label>Halo 3 - Brutes</label>
+    <clipPath>MusicExpanded/Halo3/Brutes</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Luck</defName>
+    <label>Halo 3 - Luck</label>
+    <clipPath>MusicExpanded/Halo3/Luck</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_GreatestJourney</defName>
+    <label>Halo 3 - Greatest Journey</label>
+    <clipPath>MusicExpanded/Halo3/Greatest Journey</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_WakeMeUpWhenYouNeedMe</defName>
+    <label>Halo 3 - Wake Me Up When You Need Me</label>
+    <clipPath>MusicExpanded/Halo3/Wake Me Up When You Need Me</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_BeholdAPaleHorse</defName>
+    <label>Halo 3 - Behold a Pale Horse</label>
+    <clipPath>MusicExpanded/Halo3/Behold a Pale Horse</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_BlackTower</defName>
+    <label>Halo 3 - Black Tower</label>
+    <clipPath>MusicExpanded/Halo3/Black Tower</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_ChooseWisely</defName>
+    <label>Halo 3 - Choose Wisely</label>
+    <clipPath>MusicExpanded/Halo3/Choose Wisely</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_DreadIntrusion</defName>
+    <label>Halo 3 - Dread Intrusion</label>
+    <clipPath>MusicExpanded/Halo3/Dread Intrusion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_EdgeCloser</defName>
+    <label>Halo 3 - Edge Closer</label>
+    <clipPath>MusicExpanded/Halo3/Edge Closer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_FarthestOutpost</defName>
+    <label>Halo 3 - Farthest Outpost</label>
+    <clipPath>MusicExpanded/Halo3/Farthest Outpost</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_FollowOurBrothers</defName>
+    <label>Halo 3 - Follow Our Brothers</label>
+    <clipPath>MusicExpanded/Halo3/Follow Our Brothers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Gravemind</defName>
+    <label>Halo 3 - Gravemind</label>
+    <clipPath>MusicExpanded/Halo3/Gravemind</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_HonorableIntentions</defName>
+    <label>Halo 3 - Honorable Intentions</label>
+    <clipPath>MusicExpanded/Halo3/Honorable Intentions</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Infiltrate</defName>
+    <label>Halo 3 - Infiltrate</label>
+    <clipPath>MusicExpanded/Halo3/Infiltrate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_KeepWhatYouSteal</defName>
+    <label>Halo 3 - Keep What You Steal</label>
+    <clipPath>MusicExpanded/Halo3/Keep What You Steal</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_LastOfTheBrave</defName>
+    <label>Halo 3 - Last of the Brave</label>
+    <clipPath>MusicExpanded/Halo3/Last of the Brave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_LvUrFR3NZ</defName>
+    <label>Halo 3 - LvUrFR3NZ</label>
+    <clipPath>MusicExpanded/Halo3/LvUrFR3NZ</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Movement</defName>
+    <label>Halo 3 - Movement</label>
+    <clipPath>MusicExpanded/Halo3/Movement</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_NoMoreDeadHeroes</defName>
+    <label>Halo 3 - No More Dead Heroes</label>
+    <clipPath>MusicExpanded/Halo3/No More Dead Heroes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_OutOfShadow</defName>
+    <label>Halo 3 - Out of Shadow</label>
+    <clipPath>MusicExpanded/Halo3/Out of Shadow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Released</defName>
+    <label>Halo 3 - Released</label>
+    <clipPath>MusicExpanded/Halo3/Released</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_RollCall</defName>
+    <label>Halo 3 - Roll Call</label>
+    <clipPath>MusicExpanded/Halo3/Roll Call</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_ThisIsOurLand</defName>
+    <label>Halo 3 - This Is Our Land</label>
+    <clipPath>MusicExpanded/Halo3/This Is Our Land</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_ThisIsTheHour</defName>
+    <label>Halo 3 - This Is the Hour</label>
+    <clipPath>MusicExpanded/Halo3/This Is the Hour</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_ThreeGates</defName>
+    <label>Halo 3 - Three Gates</label>
+    <clipPath>MusicExpanded/Halo3/Three Gates</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_ToKillADemon</defName>
+    <label>Halo 3 - To Kill a Demon</label>
+    <clipPath>MusicExpanded/Halo3/To Kill a Demon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo3_Tribute</defName>
+    <label>Halo 3 - Tribute</label>
+    <clipPath>MusicExpanded/Halo3/Tribute</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

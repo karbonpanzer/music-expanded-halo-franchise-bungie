@@ -1,0 +1,41 @@
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>Halo3OriginalTheme</defName>
+    <label>Halo 3 Original Soundtrack</label>
+    <description>The epic and emotional soundtrack from Halo 3, marking the end of a legendary trilogy.</description>
+    <iconPath>UI/Icons/Halo3</iconPath>
+    <tracks>
+      <li>Halo3_Unforgotten</li>
+      <li>Halo3_FinishTheFight</li>
+      <li>Halo3_OneFinalEffort</li>
+      <li>Halo3_HaloReborn</li>
+      <li>Halo3_Brutes</li>
+      <li>Halo3_Luck</li>
+      <li>Halo3_GreatestJourney</li>
+      <li>Halo3_WakeMeUpWhenYouNeedMe</li>
+      <li>Halo3_BeholdAPaleHorse</li>
+      <li>Halo3_BlackTower</li>
+      <li>Halo3_ChooseWisely</li>
+      <li>Halo3_DreadIntrusion</li>
+      <li>Halo3_EdgeCloser</li>
+      <li>Halo3_FarthestOutpost</li>
+      <li>Halo3_FollowOurBrothers</li>
+      <li>Halo3_Gravemind</li>
+      <li>Halo3_HonorableIntentions</li>
+      <li>Halo3_Infiltrate</li>
+      <li>Halo3_KeepWhatYouSteal</li>
+      <li>Halo3_LastOfTheBrave</li>
+      <li>Halo3_LvUrFR3NZ</li>
+      <li>Halo3_Movement</li>
+      <li>Halo3_NoMoreDeadHeroes</li>
+      <li>Halo3_OutOfShadow</li>
+      <li>Halo3_Released</li>
+      <li>Halo3_RollCall</li>
+      <li>Halo3_ThisIsOurLand</li>
+      <li>Halo3_ThisIsTheHour</li>
+      <li>Halo3_ThreeGates</li>
+      <li>Halo3_ToKillADemon</li>
+      <li>Halo3_Tribute</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

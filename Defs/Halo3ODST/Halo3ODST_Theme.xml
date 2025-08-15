@@ -1,0 +1,27 @@
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>ODSTOriginalTheme</defName>
+    <label>Halo 3 ODST Original Soundtrack</label>
+    <description>The atmospheric soundtrack of Halo 3: ODST, highlighting a more somber and personal narrative.</description>
+    <iconPath>UI/Icons/Halo3ODST</iconPath>
+    <tracks>
+      <li>ODST_Overture</li>
+      <li>ODST_DeferenceForDarkness</li>
+      <li>ODST_NeonNight</li>
+      <li>ODST_TheRookie</li>
+      <li>ODST_TrafficJam</li>
+      <li>ODST_OneWayRide</li>
+      <li>ODST_Skyline</li>
+      <li>ODST_DataHive</li>
+      <li>ODST_AsphaltAndAblution</li>
+      <li>ODST_BitsAndPieces</li>
+      <li>ODST_Finale</li>
+      <li>ODST_MoreThanHisShare</li>
+      <li>ODST_NoStoneUnturned</li>
+      <li>ODST_SpecialDelivery</li>
+      <li>ODST_TheLightAtTheEnd</li>
+      <li>ODST_TheMenagerie</li>
+      <li>ODST_TheOfficeOfNavalIntelligence</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

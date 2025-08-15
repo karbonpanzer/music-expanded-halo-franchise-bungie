@@ -1,0 +1,170 @@
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_HaloThemeMjolnirMix</defName>
+    <label>Halo 2 - Halo Theme Mjolnir Mix</label>
+    <clipPath>MusicExpanded/Halo2/Halo Theme Mjolnir Mix</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_BlowMeAway</defName>
+    <label>Halo 2 - Blow Me Away</label>
+    <clipPath>MusicExpanded/Halo2/Blow Me Away</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_CairoSuite</defName>
+    <label>Halo 2 - Cairo Suite</label>
+    <clipPath>MusicExpanded/Halo2/Cairo Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_DeltaHaloSuite</defName>
+    <label>Halo 2 - Delta Halo Suite</label>
+    <clipPath>MusicExpanded/Halo2/Delta Halo Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_EarthCity</defName>
+    <label>Halo 2 - Earth City</label>
+    <clipPath>MusicExpanded/Halo2/Earth City</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_HighCharitySuite</defName>
+    <label>Halo 2 - High Charity Suite</label>
+    <clipPath>MusicExpanded/Halo2/High Charity Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_InAmberClad</defName>
+    <label>Halo 2 - In Amber Clad</label>
+    <clipPath>MusicExpanded/Halo2/In Amber Clad</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_MausoleumSuite</defName>
+    <label>Halo 2 - Mausoleum Suite</label>
+    <clipPath>MusicExpanded/Halo2/Mausoleum Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_MombasaSuite</defName>
+    <label>Halo 2 - Mombasa Suite</label>
+    <clipPath>MusicExpanded/Halo2/Mombasa Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Unforgotten</defName>
+    <label>Halo 2 - Unforgotten</label>
+    <clipPath>MusicExpanded/Halo2/Unforgotten</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_2ndMovementOfTheOdyssey</defName>
+    <label>Halo 2 - 2nd Movement of the Odyssey</label>
+    <clipPath>MusicExpanded/Halo2/2nd Movement of the Odyssey</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_3rdMovementOfTheOdyssey</defName>
+    <label>Halo 2 - 3rd Movement of the Odyssey</label>
+    <clipPath>MusicExpanded/Halo2/3rd Movement of the Odyssey</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_4thMovementOfTheOdyssey</defName>
+    <label>Halo 2 - 4th Movement of the Odyssey</label>
+    <clipPath>MusicExpanded/Halo2/4th Movement of the Odyssey</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_AncientMachine</defName>
+    <label>Halo 2 - Ancient Machine</label>
+    <clipPath>MusicExpanded/Halo2/Ancient Machine</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Connected</defName>
+    <label>Halo 2 - Connected</label>
+    <clipPath>MusicExpanded/Halo2/Connected</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Epilogue</defName>
+    <label>Halo 2 - Epilogue</label>
+    <clipPath>MusicExpanded/Halo2/Epilogue</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Finale</defName>
+    <label>Halo 2 - Finale</label>
+    <clipPath>MusicExpanded/Halo2/Finale</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_FlawedLegacy</defName>
+    <label>Halo 2 - Flawed Legacy</label>
+    <clipPath>MusicExpanded/Halo2/Flawed Legacy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Follow</defName>
+    <label>Halo 2 - Follow (1st Movement of the Odyssey)</label>
+    <clipPath>MusicExpanded/Halo2/Follow (1st Movement of the Odyssey)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_GhostsOfReach</defName>
+    <label>Halo 2 - Ghosts of Reach</label>
+    <clipPath>MusicExpanded/Halo2/Ghosts of Reach</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_HeavyPricePaid</defName>
+    <label>Halo 2 - Heavy Price Paid</label>
+    <clipPath>MusicExpanded/Halo2/Heavy Price Paid</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_HereticHero</defName>
+    <label>Halo 2 - Heretic, Hero</label>
+    <clipPath>MusicExpanded/Halo2/Heretic, Hero</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_HighCharity</defName>
+    <label>Halo 2 - High Charity</label>
+    <clipPath>MusicExpanded/Halo2/High Charity</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Impend</defName>
+    <label>Halo 2 - Impend</label>
+    <clipPath>MusicExpanded/Halo2/Impend</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_NeverSurrender</defName>
+    <label>Halo 2 - Never Surrender</label>
+    <clipPath>MusicExpanded/Halo2/Never Surrender</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_OrbitOfGlass</defName>
+    <label>Halo 2 - Orbit of Glass</label>
+    <clipPath>MusicExpanded/Halo2/Orbit of Glass</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Peril</defName>
+    <label>Halo 2 - Peril</label>
+    <clipPath>MusicExpanded/Halo2/Peril</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Prologue</defName>
+    <label>Halo 2 - Prologue</label>
+    <clipPath>MusicExpanded/Halo2/Prologue</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Reclaimer</defName>
+    <label>Halo 2 - Reclaimer</label>
+    <clipPath>MusicExpanded/Halo2/Reclaimer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Remembrance</defName>
+    <label>Halo 2 - Remembrance</label>
+    <clipPath>MusicExpanded/Halo2/Remembrance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_SacredIconSuite</defName>
+    <label>Halo 2 - Sacred Icon Suite</label>
+    <clipPath>MusicExpanded/Halo2/Sacred Icon Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_TheLastSpartan</defName>
+    <label>Halo 2 - The Last Spartan</label>
+    <clipPath>MusicExpanded/Halo2/The Last Spartan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo2_Unyielding</defName>
+    <label>Halo 2 - Unyielding</label>
+    <clipPath>MusicExpanded/Halo2/Unyielding</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

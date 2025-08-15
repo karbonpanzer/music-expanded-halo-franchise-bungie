@@ -1,0 +1,106 @@
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_Overture</defName>
+    <label>Halo Reach - Overture</label>
+    <clipPath>MusicExpanded/HaloReach/1 Overture</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_WinterContingency</defName>
+    <label>Halo Reach - Winter Contingency</label>
+    <clipPath>MusicExpanded/HaloReach/2 Winter Contingency</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_ONISwordBase</defName>
+    <label>Halo Reach - ONI: Sword Base</label>
+    <clipPath>MusicExpanded/HaloReach/3 ONI_ Sword Base</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_Nightfall</defName>
+    <label>Halo Reach - Nightfall</label>
+    <clipPath>MusicExpanded/HaloReach/4 Nightfall</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_TipOfTheSpear</defName>
+    <label>Halo Reach - Tip of the Spear</label>
+    <clipPath>MusicExpanded/HaloReach/5 Tip of the Spear</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_LongNightOfSolace</defName>
+    <label>Halo Reach - Long Night of Solace</label>
+    <clipPath>MusicExpanded/HaloReach/6 Long Night of Solace</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_Exodus</defName>
+    <label>Halo Reach - Exodus</label>
+    <clipPath>MusicExpanded/HaloReach/7 Exodus</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_NewAlexandria</defName>
+    <label>Halo Reach - New Alexandria</label>
+    <clipPath>MusicExpanded/HaloReach/8 New Alexandria</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_ThePackage</defName>
+    <label>Halo Reach - The Package</label>
+    <clipPath>MusicExpanded/HaloReach/9 The Package</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_ThePillarOfAutumn</defName>
+    <label>Halo Reach - The Pillar of Autumn</label>
+    <clipPath>MusicExpanded/HaloReach/10 The Pillar of Autumn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_Epilogue</defName>
+    <label>Halo Reach - Epilogue</label>
+    <clipPath>MusicExpanded/HaloReach/11 Epilogue</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_FromTheVault</defName>
+    <label>Halo Reach - From the Vault</label>
+    <clipPath>MusicExpanded/HaloReach/12 From the Vault</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_Ashes</defName>
+    <label>Halo Reach - Ashes</label>
+    <clipPath>MusicExpanded/HaloReach/13 Ashes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_Fortress</defName>
+    <label>Halo Reach - Fortress</label>
+    <clipPath>MusicExpanded/HaloReach/14 Fortress</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_WereNotGoingAnywhere</defName>
+    <label>Halo Reach - We're Not Going Anywhere</label>
+    <clipPath>MusicExpanded/HaloReach/15 We're Not Going Anywhere</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_AtAnyCost</defName>
+    <label>Halo Reach - At Any Cost</label>
+    <clipPath>MusicExpanded/HaloReach/16 At Any Cost</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_BothWaysRemix</defName>
+    <label>Halo Reach - Both Ways - Remix</label>
+    <clipPath>MusicExpanded/HaloReach/17 Both Ways - Remix</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_WalkingAway</defName>
+    <label>Halo Reach - Walking Away</label>
+    <clipPath>MusicExpanded/HaloReach/18 Walking Away</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_GhostsAndGlass</defName>
+    <label>Halo Reach - Ghosts and Glass</label>
+    <clipPath>MusicExpanded/HaloReach/19 Ghosts and Glass</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>HaloReach_WeRemember</defName>
+    <label>Halo Reach - We Remember</label>
+    <clipPath>MusicExpanded/HaloReach/20 We Remember</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

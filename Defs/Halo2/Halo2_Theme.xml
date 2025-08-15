@@ -1,0 +1,43 @@
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>Halo2OriginalTheme</defName>
+    <label>Halo 2 Original Soundtrack</label>
+    <description>The memorable soundtrack from Halo 2, featuring iconic themes and combat music.</description>
+    <iconPath>UI/Icons/Halo2</iconPath>
+    <tracks>
+      <li>Halo2_HaloThemeMjolnirMix</li>
+      <li>Halo2_BlowMeAway</li>
+      <li>Halo2_CairoSuite</li>
+      <li>Halo2_DeltaHaloSuite</li>
+      <li>Halo2_EarthCity</li>
+      <li>Halo2_HighCharitySuite</li>
+      <li>Halo2_InAmberClad</li>
+      <li>Halo2_MausoleumSuite</li>
+      <li>Halo2_MombasaSuite</li>
+      <li>Halo2_Unforgotten</li>
+      <li>Halo2_2ndMovementOfTheOdyssey</li>
+      <li>Halo2_3rdMovementOfTheOdyssey</li>
+      <li>Halo2_4thMovementOfTheOdyssey</li>
+      <li>Halo2_AncientMachine</li>
+      <li>Halo2_Connected</li>
+      <li>Halo2_Epilogue</li>
+      <li>Halo2_Finale</li>
+      <li>Halo2_FlawedLegacy</li>
+      <li>Halo2_Follow</li>
+      <li>Halo2_GhostsOfReach</li>
+      <li>Halo2_HeavyPricePaid</li>
+      <li>Halo2_HereticHero</li>
+      <li>Halo2_HighCharity</li>
+      <li>Halo2_Impend</li>
+      <li>Halo2_NeverSurrender</li>
+      <li>Halo2_OrbitOfGlass</li>
+      <li>Halo2_Peril</li>
+      <li>Halo2_Prologue</li>
+      <li>Halo2_Reclaimer</li>
+      <li>Halo2_Remembrance</li>
+      <li>Halo2_SacredIconSuite</li>
+      <li>Halo2_TheLastSpartan</li>
+      <li>Halo2_Unyielding</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>
