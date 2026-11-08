@@ -1,92 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.TrackDef>
-    <defName>ODST_Overture</defName>
+    <defName>ME_Halo3ODST_Overture</defName>
     <label>Halo 3 ODST - Overture</label>
     <clipPath>MusicExpanded/Halo3ODST/Overture</clipPath>
     <cue>MainMenu</cue>
+    <playOnMap>false</playOnMap>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_DeferenceForDarkness</defName>
+    <defName>ME_Halo3ODST_DeferenceForDarkness</defName>
     <label>Halo 3 ODST - Deference for Darkness</label>
     <clipPath>MusicExpanded/Halo3ODST/Deference for Darkness</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_NeonNight</defName>
+    <defName>ME_Halo3ODST_NeonNight</defName>
     <label>Halo 3 ODST - Neon Night</label>
     <clipPath>MusicExpanded/Halo3ODST/Neon Night</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_TheRookie</defName>
+    <defName>ME_Halo3ODST_TheRookie</defName>
     <label>Halo 3 ODST - The Rookie</label>
     <clipPath>MusicExpanded/Halo3ODST/The Rookie</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_TrafficJam</defName>
+    <defName>ME_Halo3ODST_TrafficJam</defName>
     <label>Halo 3 ODST - Traffic Jam</label>
     <clipPath>MusicExpanded/Halo3ODST/Traffic Jam</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_OneWayRide</defName>
+    <defName>ME_Halo3ODST_OneWayRide</defName>
     <label>Halo 3 ODST - One Way Ride</label>
     <clipPath>MusicExpanded/Halo3ODST/One Way Ride</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_Skyline</defName>
+    <defName>ME_Halo3ODST_Skyline</defName>
     <label>Halo 3 ODST - Skyline</label>
     <clipPath>MusicExpanded/Halo3ODST/Skyline</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_DataHive</defName>
+    <defName>ME_Halo3ODST_DataHive</defName>
     <label>Halo 3 ODST - Data Hive</label>
     <clipPath>MusicExpanded/Halo3ODST/Data Hive</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_AsphaltAndAblution</defName>
+    <defName>ME_Halo3ODST_AsphaltAndAblution</defName>
     <label>Halo 3 ODST - Asphalt and Ablution</label>
     <clipPath>MusicExpanded/Halo3ODST/Asphalt and Ablution</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_BitsAndPieces</defName>
+    <defName>ME_Halo3ODST_BitsAndPieces</defName>
     <label>Halo 3 ODST - Bits and Pieces</label>
     <clipPath>MusicExpanded/Halo3ODST/Bits and Pieces</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_Finale</defName>
+    <defName>ME_Halo3ODST_Finale</defName>
     <label>Halo 3 ODST - Finale</label>
     <clipPath>MusicExpanded/Halo3ODST/Finale</clipPath>
     <cue>Credits</cue>
+    <playOnMap>false</playOnMap>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_MoreThanHisShare</defName>
+    <defName>ME_Halo3ODST_MoreThanHisShare</defName>
     <label>Halo 3 ODST - More Than His Share</label>
     <clipPath>MusicExpanded/Halo3ODST/More Than His Share</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_NoStoneUnturned</defName>
+    <defName>ME_Halo3ODST_NoStoneUnturned</defName>
     <label>Halo 3 ODST - No Stone Unturned</label>
     <clipPath>MusicExpanded/Halo3ODST/No Stone Unturned</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_SpecialDelivery</defName>
+    <defName>ME_Halo3ODST_SpecialDelivery</defName>
     <label>Halo 3 ODST - Special Delivery</label>
     <clipPath>MusicExpanded/Halo3ODST/Special Delivery</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_TheLightAtTheEnd</defName>
+    <defName>ME_Halo3ODST_TheLightAtTheEnd</defName>
     <label>Halo 3 ODST - The Light At the End</label>
     <clipPath>MusicExpanded/Halo3ODST/The Light At the End</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_TheMenagerie</defName>
+    <defName>ME_Halo3ODST_TheMenagerie</defName>
     <label>Halo 3 ODST - The Menagerie</label>
     <clipPath>MusicExpanded/Halo3ODST/The Menagerie</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>ODST_TheOfficeOfNavalIntelligence</defName>
+    <defName>ME_Halo3ODST_TheOfficeOfNavalIntelligence</defName>
     <label>Halo 3 ODST - The Office of Naval Intelligence</label>
     <clipPath>MusicExpanded/Halo3ODST/The Office of Naval Intelligence</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
 </Defs>

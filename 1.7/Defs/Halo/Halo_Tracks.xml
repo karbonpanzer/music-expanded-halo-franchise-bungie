@@ -1,136 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.TrackDef>
-    <defName>Halo_AWalkInTheWoods</defName>
+    <defName>ME_Halo_AWalkInTheWoods</defName>
     <label>Halo - A Walk In The Woods</label>
     <clipPath>MusicExpanded/Halo/A Walk In The Woods</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_AlienCorridors</defName>
+    <defName>ME_Halo_AlienCorridors</defName>
     <label>Halo - Alien Corridors</label>
     <clipPath>MusicExpanded/Halo/Alien Corridors</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_AmbientWonder</defName>
+    <defName>ME_Halo_AmbientWonder</defName>
     <label>Halo - Ambient Wonder</label>
     <clipPath>MusicExpanded/Halo/Ambient Wonder</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_BrothersInArms</defName>
+    <defName>ME_Halo_BrothersInArms</defName>
     <label>Halo - Brothers In Arms</label>
     <clipPath>MusicExpanded/Halo/Brothers In Arms</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_CovenantDance</defName>
+    <defName>ME_Halo_CovenantDance</defName>
     <label>Halo - Covenant Dance</label>
     <clipPath>MusicExpanded/Halo/Covenant Dance</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_DevilsMonsters</defName>
+    <defName>ME_Halo_DevilsMonsters</defName>
     <label>Halo - Devils... Monsters...</label>
     <clipPath>MusicExpanded/Halo/Devils... Monsters...</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_Drumrun</defName>
+    <defName>ME_Halo_Drumrun</defName>
     <label>Halo - Drumrun</label>
     <clipPath>MusicExpanded/Halo/Drumrun</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_DustAndEchoes</defName>
+    <defName>ME_Halo_DustAndEchoes</defName>
     <label>Halo - Dust And Echoes</label>
     <clipPath>MusicExpanded/Halo/Dust And Echoes</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_EnoughDeadHeroes</defName>
+    <defName>ME_Halo_EnoughDeadHeroes</defName>
     <label>Halo - Enough Dead Heroes</label>
     <clipPath>MusicExpanded/Halo/Enough Dead Heroes</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_Halo</defName>
+    <defName>ME_Halo_Halo</defName>
     <label>Halo - Halo</label>
     <clipPath>MusicExpanded/Halo/Halo</clipPath>
     <cue>MainMenu</cue>
+    <playOnMap>false</playOnMap>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_LamentForPvtJenkins</defName>
+    <defName>ME_Halo_LamentForPvtJenkins</defName>
     <label>Halo - Lament For Pvt. Jenkins</label>
     <clipPath>MusicExpanded/Halo/Lament For Pvt. Jenkins</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_LibrarySuite</defName>
+    <defName>ME_Halo_LibrarySuite</defName>
     <label>Halo - Library Suite</label>
     <clipPath>MusicExpanded/Halo/Library Suite</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_OnAPaleHorse</defName>
+    <defName>ME_Halo_OnAPaleHorse</defName>
     <label>Halo - On A Pale Horse</label>
     <clipPath>MusicExpanded/Halo/On A Pale Horse</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_OpeningSuite</defName>
+    <defName>ME_Halo_OpeningSuite</defName>
     <label>Halo - Opening Suite</label>
     <clipPath>MusicExpanded/Halo/Opening Suite</clipPath>
     <cue>Credits</cue>
+    <playOnMap>false</playOnMap>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_PerchanceToDream</defName>
+    <defName>ME_Halo_PerchanceToDream</defName>
     <label>Halo - Perchance To Dream</label>
     <clipPath>MusicExpanded/Halo/Perchance To Dream</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_PerilousJourney</defName>
+    <defName>ME_Halo_PerilousJourney</defName>
     <label>Halo - Perilous Journey</label>
     <clipPath>MusicExpanded/Halo/Perilous Journey</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_RockAnthemForSavingTheWorld</defName>
+    <defName>ME_Halo_RockAnthemForSavingTheWorld</defName>
     <label>Halo - Rock Anthem For Saving The World</label>
     <clipPath>MusicExpanded/Halo/Rock Anthem For Saving The World</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_Shadows</defName>
+    <defName>ME_Halo_Shadows</defName>
     <label>Halo - Shadows</label>
     <clipPath>MusicExpanded/Halo/Shadows</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_SuiteAutumn</defName>
+    <defName>ME_Halo_SuiteAutumn</defName>
     <label>Halo - Suite Autumn</label>
     <clipPath>MusicExpanded/Halo/Suite Autumn</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_TheGunPointedAtTheHeadOfTheUniverse</defName>
+    <defName>ME_Halo_TheGunPointedAtTheHeadOfTheUniverse</defName>
     <label>Halo - The Gun Pointed At The Head Of The Universe</label>
     <clipPath>MusicExpanded/Halo/The Gun Pointed At The Head Of The Universe</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_TheLongRun</defName>
+    <defName>ME_Halo_TheLongRun</defName>
     <label>Halo - The Long Run</label>
     <clipPath>MusicExpanded/Halo/The Long Run</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_TheMaw</defName>
+    <defName>ME_Halo_TheMaw</defName>
     <label>Halo - The Maw</label>
     <clipPath>MusicExpanded/Halo/The Maw</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_TraceAmounts</defName>
+    <defName>ME_Halo_TraceAmounts</defName>
     <label>Halo - Trace Amounts</label>
     <clipPath>MusicExpanded/Halo/Trace Amounts</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_TruthAndReconciliationSuite</defName>
+    <defName>ME_Halo_TruthAndReconciliationSuite</defName>
     <label>Halo - Truth And Reconciliation Suite</label>
     <clipPath>MusicExpanded/Halo/Truth And Reconciliation Suite</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_UnderCoverOfNight</defName>
+    <defName>ME_Halo_UnderCoverOfNight</defName>
     <label>Halo - Under Cover Of Night</label>
     <clipPath>MusicExpanded/Halo/Under Cover Of Night</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>Halo_WhatOnceWasLost</defName>
+    <defName>ME_Halo_WhatOnceWasLost</defName>
     <label>Halo - What Once Was Lost</label>
     <clipPath>MusicExpanded/Halo/What Once Was Lost</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
 </Defs>

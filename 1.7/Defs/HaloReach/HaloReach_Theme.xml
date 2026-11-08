@@ -1,30 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.ThemeDef>
-    <defName>HaloReachOriginalTheme</defName>
+    <defName>ME_HaloReach</defName>
     <label>Halo Reach Original Soundtrack</label>
-    <description>The powerful soundtrack from Halo Reach, known for its tragic and heroic themes.</description>
+    <description>The powerful soundtrack from Halo: Reach, known for its tragic and heroic themes. Nine combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits cues.</description>
     <iconPath>UI/Icons/HaloReach</iconPath>
     <tracks>
-      <li>HaloReach_Overture</li>
-      <li>HaloReach_WinterContingency</li>
-      <li>HaloReach_ONISwordBase</li>
-      <li>HaloReach_Nightfall</li>
-      <li>HaloReach_TipOfTheSpear</li>
-      <li>HaloReach_LongNightOfSolace</li>
-      <li>HaloReach_Exodus</li>
-      <li>HaloReach_NewAlexandria</li>
-      <li>HaloReach_ThePackage</li>
-      <li>HaloReach_ThePillarOfAutumn</li>
-      <li>HaloReach_Epilogue</li>
-      <li>HaloReach_FromTheVault</li>
-      <li>HaloReach_Ashes</li>
-      <li>HaloReach_Fortress</li>
-      <li>HaloReach_WereNotGoingAnywhere</li>
-      <li>HaloReach_AtAnyCost</li>
-      <li>HaloReach_BothWaysRemix</li>
-      <li>HaloReach_WalkingAway</li>
-      <li>HaloReach_GhostsAndGlass</li>
-      <li>HaloReach_WeRemember</li>
+      <li>ME_HaloReach_Overture</li>
+      <li>ME_HaloReach_WinterContingency</li>
+      <li>ME_HaloReach_ONISwordBase</li>
+      <li>ME_HaloReach_Nightfall</li>
+      <li>ME_HaloReach_TipOfTheSpear</li>
+      <li>ME_HaloReach_LongNightOfSolace</li>
+      <li>ME_HaloReach_Exodus</li>
+      <li>ME_HaloReach_NewAlexandria</li>
+      <li>ME_HaloReach_ThePackage</li>
+      <li>ME_HaloReach_ThePillarOfAutumn</li>
+      <li>ME_HaloReach_Epilogue</li>
+      <li>ME_HaloReach_FromTheVault</li>
+      <li>ME_HaloReach_Ashes</li>
+      <li>ME_HaloReach_Fortress</li>
+      <li>ME_HaloReach_WereNotGoingAnywhere</li>
+      <li>ME_HaloReach_AtAnyCost</li>
+      <li>ME_HaloReach_BothWaysRemix</li>
+      <li>ME_HaloReach_WalkingAway</li>
+      <li>ME_HaloReach_GhostsAndGlass</li>
+      <li>ME_HaloReach_WeRemember</li>
     </tracks>
   </MusicExpanded.ThemeDef>
 </Defs>

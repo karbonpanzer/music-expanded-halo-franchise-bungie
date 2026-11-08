@@ -1,41 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.ThemeDef>
-    <defName>Halo3OriginalTheme</defName>
+    <defName>ME_Halo3</defName>
     <label>Halo 3 Original Soundtrack</label>
-    <description>The epic and emotional soundtrack from Halo 3, marking the end of a legendary trilogy.</description>
+    <description>The epic and emotional soundtrack from Halo 3, marking the end of a legendary trilogy. Eleven combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits cues.</description>
     <iconPath>UI/Icons/Halo3</iconPath>
     <tracks>
-      <li>Halo3_Unforgotten</li>
-      <li>Halo3_FinishTheFight</li>
-      <li>Halo3_OneFinalEffort</li>
-      <li>Halo3_HaloReborn</li>
-      <li>Halo3_Brutes</li>
-      <li>Halo3_Luck</li>
-      <li>Halo3_GreatestJourney</li>
-      <li>Halo3_WakeMeUpWhenYouNeedMe</li>
-      <li>Halo3_BeholdAPaleHorse</li>
-      <li>Halo3_BlackTower</li>
-      <li>Halo3_ChooseWisely</li>
-      <li>Halo3_DreadIntrusion</li>
-      <li>Halo3_EdgeCloser</li>
-      <li>Halo3_FarthestOutpost</li>
-      <li>Halo3_FollowOurBrothers</li>
-      <li>Halo3_Gravemind</li>
-      <li>Halo3_HonorableIntentions</li>
-      <li>Halo3_Infiltrate</li>
-      <li>Halo3_KeepWhatYouSteal</li>
-      <li>Halo3_LastOfTheBrave</li>
-      <li>Halo3_LvUrFR3NZ</li>
-      <li>Halo3_Movement</li>
-      <li>Halo3_NoMoreDeadHeroes</li>
-      <li>Halo3_OutOfShadow</li>
-      <li>Halo3_Released</li>
-      <li>Halo3_RollCall</li>
-      <li>Halo3_ThisIsOurLand</li>
-      <li>Halo3_ThisIsTheHour</li>
-      <li>Halo3_ThreeGates</li>
-      <li>Halo3_ToKillADemon</li>
-      <li>Halo3_Tribute</li>
+      <li>ME_Halo3_NeverForget</li>
+      <li>ME_Halo3_FinishTheFight</li>
+      <li>ME_Halo3_OneFinalEffort</li>
+      <li>ME_Halo3_HaloReborn</li>
+      <li>ME_Halo3_Brutes</li>
+      <li>ME_Halo3_Luck</li>
+      <li>ME_Halo3_GreatestJourney</li>
+      <li>ME_Halo3_WakeMeUpWhenYouNeedMe</li>
+      <li>ME_Halo3_BeholdAPaleHorse</li>
+      <li>ME_Halo3_BlackTower</li>
+      <li>ME_Halo3_ChooseWisely</li>
+      <li>ME_Halo3_DreadIntrusion</li>
+      <li>ME_Halo3_EdgeCloser</li>
+      <li>ME_Halo3_FarthestOutpost</li>
+      <li>ME_Halo3_FollowOurBrothers</li>
+      <li>ME_Halo3_Gravemind</li>
+      <li>ME_Halo3_HonorableIntentions</li>
+      <li>ME_Halo3_Infiltrate</li>
+      <li>ME_Halo3_KeepWhatYouSteal</li>
+      <li>ME_Halo3_LastOfTheBrave</li>
+      <li>ME_Halo3_LvUrFR3NZ</li>
+      <li>ME_Halo3_Movement</li>
+      <li>ME_Halo3_NoMoreDeadHeroes</li>
+      <li>ME_Halo3_OutOfShadow</li>
+      <li>ME_Halo3_Released</li>
+      <li>ME_Halo3_RollCall</li>
+      <li>ME_Halo3_ThisIsOurLand</li>
+      <li>ME_Halo3_ThisIsTheHour</li>
+      <li>ME_Halo3_ThreeGates</li>
+      <li>ME_Halo3_ToKillADemon</li>
+      <li>ME_Halo3_Tribute</li>
     </tracks>
   </MusicExpanded.ThemeDef>
 </Defs>

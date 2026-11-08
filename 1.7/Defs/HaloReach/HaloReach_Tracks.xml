@@ -1,106 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_Overture</defName>
+    <defName>ME_HaloReach_Overture</defName>
     <label>Halo Reach - Overture</label>
     <clipPath>MusicExpanded/HaloReach/1 Overture</clipPath>
     <cue>MainMenu</cue>
+    <playOnMap>false</playOnMap>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_WinterContingency</defName>
+    <defName>ME_HaloReach_WinterContingency</defName>
     <label>Halo Reach - Winter Contingency</label>
     <clipPath>MusicExpanded/HaloReach/2 Winter Contingency</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_ONISwordBase</defName>
+    <defName>ME_HaloReach_ONISwordBase</defName>
     <label>Halo Reach - ONI: Sword Base</label>
     <clipPath>MusicExpanded/HaloReach/3 ONI_ Sword Base</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_Nightfall</defName>
+    <defName>ME_HaloReach_Nightfall</defName>
     <label>Halo Reach - Nightfall</label>
     <clipPath>MusicExpanded/HaloReach/4 Nightfall</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_TipOfTheSpear</defName>
+    <defName>ME_HaloReach_TipOfTheSpear</defName>
     <label>Halo Reach - Tip of the Spear</label>
     <clipPath>MusicExpanded/HaloReach/5 Tip of the Spear</clipPath>
-    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_LongNightOfSolace</defName>
+    <defName>ME_HaloReach_LongNightOfSolace</defName>
     <label>Halo Reach - Long Night of Solace</label>
     <clipPath>MusicExpanded/HaloReach/6 Long Night of Solace</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_Exodus</defName>
+    <defName>ME_HaloReach_Exodus</defName>
     <label>Halo Reach - Exodus</label>
     <clipPath>MusicExpanded/HaloReach/7 Exodus</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_NewAlexandria</defName>
+    <defName>ME_HaloReach_NewAlexandria</defName>
     <label>Halo Reach - New Alexandria</label>
     <clipPath>MusicExpanded/HaloReach/8 New Alexandria</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_ThePackage</defName>
+    <defName>ME_HaloReach_ThePackage</defName>
     <label>Halo Reach - The Package</label>
     <clipPath>MusicExpanded/HaloReach/9 The Package</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_ThePillarOfAutumn</defName>
+    <defName>ME_HaloReach_ThePillarOfAutumn</defName>
     <label>Halo Reach - The Pillar of Autumn</label>
     <clipPath>MusicExpanded/HaloReach/10 The Pillar of Autumn</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_Epilogue</defName>
+    <defName>ME_HaloReach_Epilogue</defName>
     <label>Halo Reach - Epilogue</label>
     <clipPath>MusicExpanded/HaloReach/11 Epilogue</clipPath>
     <cue>Credits</cue>
+    <playOnMap>false</playOnMap>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_FromTheVault</defName>
+    <defName>ME_HaloReach_FromTheVault</defName>
     <label>Halo Reach - From the Vault</label>
     <clipPath>MusicExpanded/HaloReach/12 From the Vault</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_Ashes</defName>
+    <defName>ME_HaloReach_Ashes</defName>
     <label>Halo Reach - Ashes</label>
     <clipPath>MusicExpanded/HaloReach/13 Ashes</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_Fortress</defName>
+    <defName>ME_HaloReach_Fortress</defName>
     <label>Halo Reach - Fortress</label>
     <clipPath>MusicExpanded/HaloReach/14 Fortress</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_WereNotGoingAnywhere</defName>
+    <defName>ME_HaloReach_WereNotGoingAnywhere</defName>
     <label>Halo Reach - We're Not Going Anywhere</label>
     <clipPath>MusicExpanded/HaloReach/15 We're Not Going Anywhere</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_AtAnyCost</defName>
+    <defName>ME_HaloReach_AtAnyCost</defName>
     <label>Halo Reach - At Any Cost</label>
     <clipPath>MusicExpanded/HaloReach/16 At Any Cost</clipPath>
+    <vanillaLogic>true</vanillaLogic>
+    <tense>true</tense>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_BothWaysRemix</defName>
+    <defName>ME_HaloReach_BothWaysRemix</defName>
     <label>Halo Reach - Both Ways - Remix</label>
     <clipPath>MusicExpanded/HaloReach/17 Both Ways - Remix</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_WalkingAway</defName>
+    <defName>ME_HaloReach_WalkingAway</defName>
     <label>Halo Reach - Walking Away</label>
     <clipPath>MusicExpanded/HaloReach/18 Walking Away</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_GhostsAndGlass</defName>
+    <defName>ME_HaloReach_GhostsAndGlass</defName>
     <label>Halo Reach - Ghosts and Glass</label>
     <clipPath>MusicExpanded/HaloReach/19 Ghosts and Glass</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
   <MusicExpanded.TrackDef>
-    <defName>HaloReach_WeRemember</defName>
+    <defName>ME_HaloReach_WeRemember</defName>
     <label>Halo Reach - We Remember</label>
     <clipPath>MusicExpanded/HaloReach/20 We Remember</clipPath>
+    <vanillaLogic>true</vanillaLogic>
   </MusicExpanded.TrackDef>
 </Defs>

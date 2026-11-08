@@ -1,36 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.ThemeDef>
-    <defName>HaloOriginalTheme</defName>
+    <defName>ME_Halo</defName>
     <label>Halo Original Soundtrack</label>
-    <description>The iconic soundtrack from the original Halo game.</description>
+    <description>The iconic soundtrack from Halo: Combat Evolved. Nine combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits cues.</description>
     <iconPath>UI/Icons/Halo</iconPath>
     <tracks>
-      <li>Halo_AWalkInTheWoods</li>
-      <li>Halo_AlienCorridors</li>
-      <li>Halo_AmbientWonder</li>
-      <li>Halo_BrothersInArms</li>
-      <li>Halo_CovenantDance</li>
-      <li>Halo_DevilsMonsters</li>
-      <li>Halo_Drumrun</li>
-      <li>Halo_DustAndEchoes</li>
-      <li>Halo_EnoughDeadHeroes</li>
-      <li>Halo_Halo</li>
-      <li>Halo_LamentForPvtJenkins</li>
-      <li>Halo_LibrarySuite</li>
-      <li>Halo_OnAPaleHorse</li>
-      <li>Halo_OpeningSuite</li>
-      <li>Halo_PerchanceToDream</li>
-      <li>Halo_PerilousJourney</li>
-      <li>Halo_RockAnthemForSavingTheWorld</li>
-      <li>Halo_Shadows</li>
-      <li>Halo_SuiteAutumn</li>
-      <li>Halo_TheGunPointedAtTheHeadOfTheUniverse</li>
-      <li>Halo_TheLongRun</li>
-      <li>Halo_TheMaw</li>
-      <li>Halo_TraceAmounts</li>
-      <li>Halo_TruthAndReconciliationSuite</li>
-      <li>Halo_UnderCoverOfNight</li>
-      <li>Halo_WhatOnceWasLost</li>
+      <li>ME_Halo_AWalkInTheWoods</li>
+      <li>ME_Halo_AlienCorridors</li>
+      <li>ME_Halo_AmbientWonder</li>
+      <li>ME_Halo_BrothersInArms</li>
+      <li>ME_Halo_CovenantDance</li>
+      <li>ME_Halo_DevilsMonsters</li>
+      <li>ME_Halo_Drumrun</li>
+      <li>ME_Halo_DustAndEchoes</li>
+      <li>ME_Halo_EnoughDeadHeroes</li>
+      <li>ME_Halo_Halo</li>
+      <li>ME_Halo_LamentForPvtJenkins</li>
+      <li>ME_Halo_LibrarySuite</li>
+      <li>ME_Halo_OnAPaleHorse</li>
+      <li>ME_Halo_OpeningSuite</li>
+      <li>ME_Halo_PerchanceToDream</li>
+      <li>ME_Halo_PerilousJourney</li>
+      <li>ME_Halo_RockAnthemForSavingTheWorld</li>
+      <li>ME_Halo_Shadows</li>
+      <li>ME_Halo_SuiteAutumn</li>
+      <li>ME_Halo_TheGunPointedAtTheHeadOfTheUniverse</li>
+      <li>ME_Halo_TheLongRun</li>
+      <li>ME_Halo_TheMaw</li>
+      <li>ME_Halo_TraceAmounts</li>
+      <li>ME_Halo_TruthAndReconciliationSuite</li>
+      <li>ME_Halo_UnderCoverOfNight</li>
+      <li>ME_Halo_WhatOnceWasLost</li>
     </tracks>
   </MusicExpanded.ThemeDef>
 </Defs>

@@ -1,27 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <MusicExpanded.ThemeDef>
-    <defName>ODSTOriginalTheme</defName>
+    <defName>ME_Halo3ODST</defName>
     <label>Halo 3 ODST Original Soundtrack</label>
-    <description>The atmospheric soundtrack of Halo 3: ODST, highlighting a more somber and personal narrative.</description>
+    <description>The atmospheric soundtrack of Halo 3: ODST, highlighting a more somber and personal narrative. Four combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits cues.</description>
     <iconPath>UI/Icons/Halo3ODST</iconPath>
     <tracks>
-      <li>ODST_Overture</li>
-      <li>ODST_DeferenceForDarkness</li>
-      <li>ODST_NeonNight</li>
-      <li>ODST_TheRookie</li>
-      <li>ODST_TrafficJam</li>
-      <li>ODST_OneWayRide</li>
-      <li>ODST_Skyline</li>
-      <li>ODST_DataHive</li>
-      <li>ODST_AsphaltAndAblution</li>
-      <li>ODST_BitsAndPieces</li>
-      <li>ODST_Finale</li>
-      <li>ODST_MoreThanHisShare</li>
-      <li>ODST_NoStoneUnturned</li>
-      <li>ODST_SpecialDelivery</li>
-      <li>ODST_TheLightAtTheEnd</li>
-      <li>ODST_TheMenagerie</li>
-      <li>ODST_TheOfficeOfNavalIntelligence</li>
+      <li>ME_Halo3ODST_Overture</li>
+      <li>ME_Halo3ODST_DeferenceForDarkness</li>
+      <li>ME_Halo3ODST_NeonNight</li>
+      <li>ME_Halo3ODST_TheRookie</li>
+      <li>ME_Halo3ODST_TrafficJam</li>
+      <li>ME_Halo3ODST_OneWayRide</li>
+      <li>ME_Halo3ODST_Skyline</li>
+      <li>ME_Halo3ODST_DataHive</li>
+      <li>ME_Halo3ODST_AsphaltAndAblution</li>
+      <li>ME_Halo3ODST_BitsAndPieces</li>
+      <li>ME_Halo3ODST_Finale</li>
+      <li>ME_Halo3ODST_MoreThanHisShare</li>
+      <li>ME_Halo3ODST_NoStoneUnturned</li>
+      <li>ME_Halo3ODST_SpecialDelivery</li>
+      <li>ME_Halo3ODST_TheLightAtTheEnd</li>
+      <li>ME_Halo3ODST_TheMenagerie</li>
+      <li>ME_Halo3ODST_TheOfficeOfNavalIntelligence</li>
     </tracks>
   </MusicExpanded.ThemeDef>
 </Defs>
