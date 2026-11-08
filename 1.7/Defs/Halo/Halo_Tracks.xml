@@ -1,0 +1,136 @@
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_AWalkInTheWoods</defName>
+    <label>Halo - A Walk In The Woods</label>
+    <clipPath>MusicExpanded/Halo/A Walk In The Woods</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_AlienCorridors</defName>
+    <label>Halo - Alien Corridors</label>
+    <clipPath>MusicExpanded/Halo/Alien Corridors</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_AmbientWonder</defName>
+    <label>Halo - Ambient Wonder</label>
+    <clipPath>MusicExpanded/Halo/Ambient Wonder</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_BrothersInArms</defName>
+    <label>Halo - Brothers In Arms</label>
+    <clipPath>MusicExpanded/Halo/Brothers In Arms</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_CovenantDance</defName>
+    <label>Halo - Covenant Dance</label>
+    <clipPath>MusicExpanded/Halo/Covenant Dance</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_DevilsMonsters</defName>
+    <label>Halo - Devils... Monsters...</label>
+    <clipPath>MusicExpanded/Halo/Devils... Monsters...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_Drumrun</defName>
+    <label>Halo - Drumrun</label>
+    <clipPath>MusicExpanded/Halo/Drumrun</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_DustAndEchoes</defName>
+    <label>Halo - Dust And Echoes</label>
+    <clipPath>MusicExpanded/Halo/Dust And Echoes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_EnoughDeadHeroes</defName>
+    <label>Halo - Enough Dead Heroes</label>
+    <clipPath>MusicExpanded/Halo/Enough Dead Heroes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_Halo</defName>
+    <label>Halo - Halo</label>
+    <clipPath>MusicExpanded/Halo/Halo</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_LamentForPvtJenkins</defName>
+    <label>Halo - Lament For Pvt. Jenkins</label>
+    <clipPath>MusicExpanded/Halo/Lament For Pvt. Jenkins</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_LibrarySuite</defName>
+    <label>Halo - Library Suite</label>
+    <clipPath>MusicExpanded/Halo/Library Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_OnAPaleHorse</defName>
+    <label>Halo - On A Pale Horse</label>
+    <clipPath>MusicExpanded/Halo/On A Pale Horse</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_OpeningSuite</defName>
+    <label>Halo - Opening Suite</label>
+    <clipPath>MusicExpanded/Halo/Opening Suite</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_PerchanceToDream</defName>
+    <label>Halo - Perchance To Dream</label>
+    <clipPath>MusicExpanded/Halo/Perchance To Dream</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_PerilousJourney</defName>
+    <label>Halo - Perilous Journey</label>
+    <clipPath>MusicExpanded/Halo/Perilous Journey</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_RockAnthemForSavingTheWorld</defName>
+    <label>Halo - Rock Anthem For Saving The World</label>
+    <clipPath>MusicExpanded/Halo/Rock Anthem For Saving The World</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_Shadows</defName>
+    <label>Halo - Shadows</label>
+    <clipPath>MusicExpanded/Halo/Shadows</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_SuiteAutumn</defName>
+    <label>Halo - Suite Autumn</label>
+    <clipPath>MusicExpanded/Halo/Suite Autumn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_TheGunPointedAtTheHeadOfTheUniverse</defName>
+    <label>Halo - The Gun Pointed At The Head Of The Universe</label>
+    <clipPath>MusicExpanded/Halo/The Gun Pointed At The Head Of The Universe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_TheLongRun</defName>
+    <label>Halo - The Long Run</label>
+    <clipPath>MusicExpanded/Halo/The Long Run</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_TheMaw</defName>
+    <label>Halo - The Maw</label>
+    <clipPath>MusicExpanded/Halo/The Maw</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_TraceAmounts</defName>
+    <label>Halo - Trace Amounts</label>
+    <clipPath>MusicExpanded/Halo/Trace Amounts</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_TruthAndReconciliationSuite</defName>
+    <label>Halo - Truth And Reconciliation Suite</label>
+    <clipPath>MusicExpanded/Halo/Truth And Reconciliation Suite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_UnderCoverOfNight</defName>
+    <label>Halo - Under Cover Of Night</label>
+    <clipPath>MusicExpanded/Halo/Under Cover Of Night</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Halo_WhatOnceWasLost</defName>
+    <label>Halo - What Once Was Lost</label>
+    <clipPath>MusicExpanded/Halo/What Once Was Lost</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>
